@@ -1,5 +1,4 @@
-# dio-mysql-sql-specialist
-Repositorio para formação em Data Specialist da DIO
+
 
 # Formação SQL Database Specialist
 Esse repositório faz parte da formação de analista de banco de dados com MySQL da DIO.me. Sendo assim, neste repositório são encontrados 4 projetos. Cada projeto (diretório) possui a um módulo distinto da formação. A estrutura está definida como segue abaixo:
